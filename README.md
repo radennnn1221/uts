@@ -13,7 +13,7 @@ Proyek ini dibuat menggunakan Laravel 12 dan Filament v3 sebagai studi kasus unt
 
  File Tambahan:
 
-- `jawaban_essay_CIE406.pdf`: Berisi jawaban pertanyaan essay untuk mata kuliah CIE406 - Keamanan Informasi
+- `jawaban_essay.pdf`: Berisi jawaban pertanyaan essay - Keamanan Informasi
 
  Cara Menjalankan Proyek:
 
