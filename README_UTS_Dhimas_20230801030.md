@@ -5,7 +5,7 @@
 - Nama: Dhimas Aditya Pratama
 - NIM: 20230801030
 - Mata Kuliah: CIE406 - Keamanan Informasi
-- Dosen: Hani Dewi Ariessanti
+- Dosen: Hani Dewi Ariessanti S.Kom,M.Kom
 - Tanggal: 20 Mei 2024
 
 ## Deskripsi Proyek
